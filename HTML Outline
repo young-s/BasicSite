@@ -19,7 +19,7 @@
     <main>
       <div class="jumbotron">
         <div class="container">
-          <h1>Welcome Our Site</h1>
+          <h1>Welcome To Our Site</h1>
           <a target="_blank" href="https://news.google.com/news/local/section/geo/Naas,%20Ireland/Naas,%20County%20Kildare?ned=en_ie&hl=en-IE&gl=IE" class="btn-main"> Local Naas News</a>
         </div>
       </div>
