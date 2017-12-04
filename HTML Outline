@@ -19,8 +19,8 @@
     <main>
       <div class="jumbotron">
         <div class="container">
-          <h1>Welcome to the Site</h1>
-          <a href="www.beyonce.com" class="btn-main"> Link Button</a>
+          <h1>Welcome Our Site</h1>
+          <a target="_blank" href="https://news.google.com/news/local/section/geo/Naas,%20Ireland/Naas,%20County%20Kildare?ned=en_ie&hl=en-IE&gl=IE" class="btn-main"> Local Naas News</a>
         </div>
       </div>
     </main>
@@ -30,21 +30,21 @@
 
         <div class="col">
           <img src="https://s3.amazonaws.com/codecademy-content/projects/broadway/design.svg">
-          <h2>Heading 2</h2>
-          <p>Make your projects look great and interact beautifully.</p>
+          <h2>List of Household Suppliers</h2>
+          <p>List of Suppliers and Contact Details</p>
           <a href="www.codecademy.com"> Learn More</a><br>
         </div>
 
         <div class="col">
           <img src="https://s3.amazonaws.com/codecademy-content/projects/broadway/develop.svg">
-          <h2>Heading 2</h2>
-          <p>Use modern tools to turn your design into a web site</p>
+          <h2>Important Contact Numbers</h2>
+          <p> Creche / School / Family Contact Details</p>
           <a href="www.codecademy.com"> Learn More</a><br>
         </div>
 
         <div class="col">
           <img src="https://s3.amazonaws.com/codecademy-content/projects/broadway/deploy.svg">
-          <h2>Heading 2</h2>
+          <h2>Family Recipes</h2>
           <p>Use modern tools to turn your design into a web site</p>
           <a href="www.codecademy.com"> Learn More</a><br>
         </div>

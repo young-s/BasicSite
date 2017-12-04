@@ -5,7 +5,7 @@ html, body {
 
 header {
   background-color: #333333;
-  position: fixed;
+  position: relative;
   width: 100%;
   z-index: 5;
 }
@@ -28,7 +28,7 @@ nav li {
 main {
   text-align: center;
   position:relative;
-  top:80px;
+  top:0px;
 }
 
 main h1 {
@@ -59,15 +59,17 @@ footer p {
   margin: 0 auto;
   padding: 0 10px;
   text-align: center;
+   overflow:hidden;
 }
 
 .jumbotron {
   height: 800px;
-  background-image: url("http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg");
+  background-image: url("Oldtown Waterfall.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+   overflow:hidden;
 }
 
 .btn-main {
